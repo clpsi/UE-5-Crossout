@@ -1,0 +1,44 @@
+{
+    "text1": {
+        "text": "You can edit these texts under /Content/Saves/QTs.json xD"
+    },
+    "text2": {
+        "text": "SIUUUUUUUUUUUUUUUUUUUUUUUUUU"
+    },
+    "text3": {
+        "text": "Go to the Stand to enter Building mode"
+    },
+    "text4": {
+        "text": "Press C to switch back from Camera to Character"
+    },
+    "text5": {
+        "text": "These 'Cells' are like anchor points"
+    },
+    "text6": {
+        "text": "F to Hide Cells"
+    },
+    "text7": {
+        "text": "Dont mind the wonky physics, i just set the mass extremely low :)"
+    },
+    "text8": {
+        "text": "Tab to switch Character and Cabin"
+    },
+    "text9": {
+        "text": "Space/Shift to go Up/Down"
+    },
+    "text10": {
+        "text": "I for Inventory obviously"
+    },
+    "text11": {
+        "text": "You can control joints after hitting 1 and clicking on one of them"
+    },
+    "text12": {
+        "text": "Theres also a Sequencer for complex well.. sequences"
+    },
+    "text13": {
+        "text": "You can't lose stuff from your inventory for this Demo btw"
+    },
+    "text14": {
+        "text": "Dont judge the the appearance i put this in 10 min together except the code"
+    }
+}
